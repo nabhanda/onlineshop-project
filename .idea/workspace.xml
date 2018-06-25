@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9d7cade-7b97-4c2b-bb33-64f3c1d82384" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/category/templates/category/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kids/templates/kids/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kids/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/men/templates/men/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/men/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/women/templates/women/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/women/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/category/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlineshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlineshop/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9d7cade-7b97-4c2b-bb33-64f3c1d82384" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/category/templates/category/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -718,7 +704,7 @@
     <entry file="file://$PROJECT_DIR$/category/templates/category/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
         </state>
       </provider>
     </entry>
