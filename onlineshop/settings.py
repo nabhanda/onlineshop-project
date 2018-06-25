@@ -32,6 +32,9 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'category.apps.CategoryConfig',
+    'women.apps.WomenConfig',
+    'men.apps.MenConfig',
+    'kids.apps.KidsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

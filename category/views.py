@@ -1,3 +1,11 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 
-# Create your views here.
+from .models import Category
+
+def home(request):
+    cat = Category.objects
+    return render(request, 'category/home.html', {'cat':cat})
+
+# def catego(request):
+#     detailcat = get_object_or_404(Category, pk=cat_id)
+#     return render(request, 'category/home.html', {'blog':detailcat})
