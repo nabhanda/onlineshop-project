@@ -23,7 +23,5 @@ import category.views
 urlpatterns = [
     path('', category.views.home, name='home'),
     path('admin/', admin.site.urls),
-    path('women/', include('women.urls')),
-    path('men/', include('men.urls')),
-    path('kids/', include('kids.urls')),
+    path('category/', include('category.urls')),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
